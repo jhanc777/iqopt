@@ -28,3 +28,7 @@
 #pip install git+https://github.com/jhanc777/iqopt.git
 
 #py -m pip install git+https://github.com/jhanc777/iqopt.git
+
+
+
+#instalar extension python en visual studio code
