@@ -1,7 +1,9 @@
 # iqopt
 
 #https://code.visualstudio.com/download
+
 #https://www.python.org/downloads/
+
 #https://git-scm.com/downloads
 
 
@@ -14,6 +16,9 @@
 @Nota: Ejecutar la terminal (CMD o Powershell) con privilegios de administrador
 
 #install via pip:
+
 #pip install websocket-client==0.56
+
 #pip install git+https://github.com/jhanc777/iqopt.git
+
 #py -m pip install git+https://github.com/jhanc777/iqopt.git
